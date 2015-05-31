@@ -1,0 +1,14 @@
+{
+  "name": "linter.luacheck",
+  "title": "Luacheck",
+  "description": "Adds Luacheck support to Brackets.",
+  "homepage": "",
+  "version": "1.0.0",
+  "keywords": ["lint", "linting", "linter"],
+  "categories": "linting",
+  "author": "Malcolm Taylor <malcolm3141@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.38.0"
+  }
+}
